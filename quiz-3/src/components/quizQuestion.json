@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Who is the leader of the Avengers?",
+        "optionA": "Iron Man",
+        "optionB": "Captain America",
+        "optionC": "Thor",
+        "optionD": "Hulk",
+        "answer": "Captain America"
+    },
+    {
+        "question": "What is the name of Tony Stark's AI assistant?",
+        "optionA": "JARVIS",
+        "optionB": "FRIDAY",
+        "optionC": "Ultron",
+        "optionD": "EDITH",
+        "answer": "JARVIS"
+    },
+    {
+        "question": "Who is the main villain in 'Avengers: Infinity War'?",
+        "optionA": "Loki",
+        "optionB": "Thanos",
+        "optionC": "Ultron",
+        "optionD": "Hela",
+        "answer": "Thanos"
+    },
+    {
+        "question": "What is the name of Thor's hammer?",
+        "optionA": "Mjolnir",
+        "optionB": "Stormbreaker",
+        "optionC": "Gungnir",
+        "optionD": "Hofund",
+        "answer": "Mjolnir"
+    },
+    {
+        "question": "Who is the director of 'Guardians of the Galaxy'?",
+        "optionA": "Jon Favreau",
+        "optionB": "Joss Whedon",
+        "optionC": "James Gunn",
+        "optionD": "Russo Brothers",
+        "answer": "James Gunn"
+    },
+    {
+        "question": "Which infinity stone is green?",
+        "optionA": "Mind Stone",
+        "optionB": "Reality Stone",
+        "optionC": "Time Stone",
+        "optionD": "Soul Stone",
+        "answer": "Time Stone"
+    },
+    {
+        "question": "What species is Rocket?",
+        "optionA": "Human",
+        "optionB": "Raccoon",
+        "optionC": "Tree",
+        "optionD": "Dog",
+        "answer": "Raccoon"
+    },
+    {
+        "question": "Who plays the role of Black Widow?",
+        "optionA": "Scarlett Johansson",
+        "optionB": "Natalie Portman",
+        "optionC": "Elizabeth Olsen",
+        "optionD": "Gwyneth Paltrow",
+        "answer": "Scarlett Johansson"
+    },
+    {
+        "question": "What is the name of the metal used to make Captain America's shield?",
+        "optionA": "Adamantium",
+        "optionB": "Vibranium",
+        "optionC": "Uru",
+        "optionD": "Titanium",
+        "answer": "Vibranium"
+    },
+    {
+        "question": "Who is the love interest of Peter Parker in 'Spider-Man: Homecoming'?",
+        "optionA": "Mary Jane Watson",
+        "optionB": "Gwen Stacy",
+        "optionC": "Liz Allan",
+        "optionD": "Betty Brant",
+        "answer": "Liz Allan"
+    },
+    {
+        "question": "In which movie did the character Thanos first appear?",
+        "optionA": "Avengers: Age of Ultron",
+        "optionB": "Guardians of the Galaxy",
+        "optionC": "The Avengers",
+        "optionD": "Thor: Ragnarok",
+        "answer": "The Avengers"
+    },
+    {
+        "question": "What is the real name of the superhero Ant-Man?",
+        "optionA": "Scott Lang",
+        "optionB": "Bruce Banner",
+        "optionC": "Hank Pym",
+        "optionD": "Clint Barton",
+        "answer": "Scott Lang"
+    },
+    {
+        "question": "Who is the actress behind the character Gamora?",
+        "optionA": "Zoe Saldana",
+        "optionB": "Karen Gillan",
+        "optionC": "Pom Klementieff",
+        "optionD": "Tessa Thompson",
+        "answer": "Zoe Saldana"
+    },
+    {
+        "question": "What is the name of Tony Stark's father?",
+        "optionA": "Howard Stark",
+        "optionB": "Edwin Jarvis",
+        "optionC": "Phil Coulson",
+        "optionD": "Alexander Pierce",
+        "answer": "Howard Stark"
+    },
+    {
+        "question": "What is the name of the organization that Loki leads in the first Avengers movie?",
+        "optionA": "Hydra",
+        "optionB": "Chitauri",
+        "optionC": "Leviathan",
+        "optionD": "The Other's Army",
+        "answer": "Chitauri"
+    }
+]
